@@ -1,7 +1,7 @@
 # Uncomment the imports below before you add the function code
 import requests
-# import json
-# from requests.auth import HTTPBasicAuth
+import json
+from requests.auth import HTTPBasicAuth
 
 import os
 from dotenv import load_dotenv
